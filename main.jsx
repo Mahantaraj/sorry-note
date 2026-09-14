@@ -140,7 +140,7 @@ function App() {
 
               <div className="signature">
                 <span>Forever yours,</span>
-                <strong>your boyfriend</strong>
+                <strong>Cute Motu Babeee</strong>
               </div>
             </div>
 
